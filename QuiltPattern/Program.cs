@@ -6,7 +6,7 @@ namespace QuiltPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Avi!");
+            Console.WriteLine("Greetings and welcome to the Quilt Pattern Logger!!");
         }
     }
 }
