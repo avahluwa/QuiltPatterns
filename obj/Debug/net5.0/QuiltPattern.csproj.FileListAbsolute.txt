@@ -1,0 +1,16 @@
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.exe
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.deps.json
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.runtimeconfig.json
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.runtimeconfig.dev.json
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.dll
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\ref\QuiltPattern.dll
+C:\Users\avahluwa\Documents\QuiltPattern\bin\Debug\net5.0\QuiltPattern.pdb
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.csproj.AssemblyReference.cache
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.AssemblyInfoInputs.cache
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.AssemblyInfo.cs
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.csproj.CoreCompileInputs.cache
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.dll
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\ref\QuiltPattern.dll
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.pdb
+C:\Users\avahluwa\Documents\QuiltPattern\obj\Debug\net5.0\QuiltPattern.genruntimeconfig.cache
