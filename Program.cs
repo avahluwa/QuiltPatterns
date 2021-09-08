@@ -27,10 +27,10 @@ namespace QuiltPattern
                 Console.ForegroundColor = ConsoleColor.Blue;
             }
 
-            Console.WriteLine("\nEnter a letter to add a shape to the log");
+            Console.WriteLine("\nEnter a letter from the selection below to proceed");
             Console.WriteLine("S) Square\nR) Rectangle\nT) Triangle");
-            Console.WriteLine("\nV) View log input");
-            Console.WriteLine("\nQ) Quit");
+            Console.WriteLine("V) View log input");
+            Console.WriteLine("Q) Quit");
 
             string shape;
             shape = Console.ReadLine();
@@ -39,7 +39,7 @@ namespace QuiltPattern
             {
                 Square shapeS = new Square();
             }
-
+        
         }
     }
 }

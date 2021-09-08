@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace QuiltPattern
 {
-    class Shape
+    public abstract class Shape
+    public Shape CreateSquare()
     {
+        Console.WriteLine("You made a square");
+        var color = ui.AskForString("Choose a color");
+        var side1 = ui.AskForInt("What is the length of a side");
+
+        return new Square(color, side1);
     }
 }

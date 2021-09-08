@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuiltPattern
 {
-    class Rectangle
+    public class Rectangle : Shape
     {
     }
 }
